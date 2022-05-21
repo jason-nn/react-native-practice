@@ -2,7 +2,6 @@ import {
   requestMediaLibraryPermissionsAsync,
   launchImageLibraryAsync,
 } from 'expo-image-picker';
-import { StatusBar } from 'expo-status-bar';
 import { useState } from 'react';
 import { Image, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 
